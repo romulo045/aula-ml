@@ -5,16 +5,16 @@
     "python": "3.12.10"
   },
   "artefato": "models/model.json",
-  "artifact_sha256": "72a3a67936139a3473838a6dcfa7aae1acb4c23467be1ef1056d51d485b94840",
+  "artifact_sha256": "7f9d94ca8dd86ccc8ad90b0839613c61a33e2168bd23bf083a4bbe1375f908ac",
   "avaliacao": "reports/metrics.json",
-  "dataset_id": "chamados-v1",
-  "dataset_sha256": "bc3fd86a3a5f598841a58839a9726d901fa7e8361ffe79c5b43873ad8a1328ac",
+  "dataset_id": "chamados-v2",
+  "dataset_sha256": "4ca2e29cb930a9161c2a851b3c71f5529dbb812db607ee4a5ea95d2223baa14d",
   "descritor": "models/model.json.dvc",
-  "git_commit": "9bef27a78185cdfe2adf75bd3cfef33561306bed",
-  "model_id": "chamados-r1",
+  "git_commit": "f387abb04242c05b02a77cd4d3789192c9e7f9d8",
+  "model_id": "chamados-r2",
   "parametros": {
     "tokenizador": "primeira_palavra_minuscula"
   },
-  "run_id": "2b672c8e-00d5-43de-93be-685576d35dd3",
+  "run_id": "c6046fad-fdbb-4724-910a-28105e70a36c",
   "split_sha256": "2ef820171c1a4625fe216e6da67c7c8dcf9d97a08288c0239cd23f1a6961d981"
 }
